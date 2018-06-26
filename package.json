@@ -1,0 +1,15 @@
+{
+  "name": "object-deep-find",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Banjo Mofesola Paul",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
