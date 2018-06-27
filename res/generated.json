@@ -1,0 +1,423 @@
+{
+  "data": [{
+      "_id": "5b335e6bff0ef3fe8060da58",
+      "index": 0,
+      "guid": "15962b98-4672-4ee3-8aae-6b8420b108d8",
+      "isActive": true,
+      "balance": "$1,900.93",
+      "name": "Janell Glover",
+      "gender": "female",
+      "tags": [
+        "veniam",
+        "aute",
+        "culpa",
+        "pariatur",
+        "aliquip",
+        "eiusmod",
+        "incididunt"
+      ],
+      "friends": [{
+          "id": 0,
+          "name": "Guzman Hester",
+          "connections": [{
+              "id": 0,
+              "name": "Nadine Sawyer"
+            },
+            {
+              "id": 1,
+              "name": "Ivy Frank"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Katharine Diaz",
+          "connections": [{
+              "id": 0,
+              "name": "Molina Sampson"
+            },
+            {
+              "id": 1,
+              "name": "Alford Nolan"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Calderon Peterson",
+          "connections": [{
+              "id": 0,
+              "name": "Sonia Humphrey"
+            },
+            {
+              "id": 1,
+              "name": "Maynard Snyder"
+            }
+          ]
+        }
+      ],
+      "greeting": "Hello, Janell Glover! You have 6 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "5b335e6b0cf9e3275af430cc",
+      "index": 1,
+      "guid": "d9257b1f-6e96-4c27-8b97-9aa9fc846c77",
+      "isActive": false,
+      "balance": "$1,557.09",
+      "name": "Maxine Harmon",
+      "gender": "female",
+      "tags": [
+        "cupidatat",
+        "anim",
+        "veniam",
+        "amet",
+        "pariatur",
+        "qui",
+        "in"
+      ],
+      "friends": [{
+          "id": 0,
+          "name": "Juana Vinson",
+          "connections": [{
+              "id": 0,
+              "name": "Bobbi Kennedy"
+            },
+            {
+              "id": 1,
+              "name": "Levine Small"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Nina Hunt",
+          "connections": [{
+              "id": 0,
+              "name": "Alisa Villarreal"
+            },
+            {
+              "id": 1,
+              "name": "Carson Mcdowell"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Virginia Boyle",
+          "connections": [{
+              "id": 0,
+              "name": "Guerra Gonzalez"
+            },
+            {
+              "id": 1,
+              "name": "Mcmahon Patton"
+            }
+          ]
+        }
+      ],
+      "greeting": "Hello, Maxine Harmon! You have 3 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "5b335e6bca4dae0f514fb68d",
+      "index": 2,
+      "guid": "788153e0-6561-410b-aa64-62456698ba6d",
+      "isActive": true,
+      "balance": "$3,460.38",
+      "name": "Noel Reynolds",
+      "gender": "male",
+      "tags": [
+        "voluptate",
+        "proident",
+        "aliqua",
+        "consequat",
+        "do",
+        "aliquip",
+        "consectetur"
+      ],
+      "friends": [{
+          "id": 0,
+          "name": "Naomi Briggs",
+          "connections": [{
+              "id": 0,
+              "name": "Fernandez Houston"
+            },
+            {
+              "id": 1,
+              "name": "Rosario Graham"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Dollie Lara",
+          "connections": [{
+              "id": 0,
+              "nam": "Marks Lynch"
+            },
+            {
+              "id": 1,
+              "name": "Massey Pratt"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Jeri Long",
+          "connections": [{
+              "id": 0,
+              "name": "Dorothea Steele"
+            },
+            {
+              "id": 1,
+              "name": "Saunders Chaney"
+            }
+          ]
+        }
+      ],
+      "greeting": "Hello, Noel Reynolds! You have 1 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "5b335e6b63aa4a8be4fe8401",
+      "index": 3,
+      "guid": "4e15123b-9445-4386-ac46-d127ca2b42fb",
+      "isActive": false,
+      "balance": "$2,614.79",
+      "name": "Nolan Rasmussen",
+      "gender": "male",
+      "tags": [
+        "laborum",
+        "ea",
+        "id",
+        "veniam",
+        "ad",
+        "occaecat",
+        "enim"
+      ],
+      "friends": [{
+          "id": 0,
+          "name": "Cooke Oliver",
+          "connections": [{
+              "id": 0,
+              "name": "Brennan Mathews"
+            },
+            {
+              "id": 1,
+              "name": "Ada Roman"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Reva Mitchell",
+          "connections": [{
+              "id": 0,
+              "name": "Morrow Rocha"
+            },
+            {
+              "id": 1,
+              "name": "Glenda Rollins"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Walton Savage",
+          "connections": [{
+              "id": 0,
+              "name": "Flora Booth"
+            },
+            {
+              "id": 1,
+              "name": "Angelique Bullock"
+            }
+          ]
+        }
+      ],
+      "greeting": "Hello, Nolan Rasmussen! You have 9 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5b335e6b74a9eb5b37089d8a",
+      "index": 4,
+      "guid": "9a3eb268-8b28-46d1-8bbe-7b9bee336c99",
+      "isActive": true,
+      "balance": "$3,217.02",
+      "name": "Suzette Clements",
+      "gender": "female",
+      "tags": [
+        "tempor",
+        "ea",
+        "id",
+        "non",
+        "ex",
+        "voluptate",
+        "mollit"
+      ],
+      "friends": [{
+          "id": 0,
+          "name": "Mccarthy Grimes",
+          "connections": [{
+              "id": 0,
+              "name": "Wooten Baxter"
+            },
+            {
+              "id": 1,
+              "name": "Cecile Barron"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Poole Pacheco",
+          "connections": [{
+              "id": 0,
+              "name": "Larson Hudson"
+            },
+            {
+              "id": 1,
+              "name": "Edwina Guerrero"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Ruiz Glenn",
+          "connections": [{
+              "id": 0,
+              "name": "Cantu Merrill"
+            },
+            {
+              "id": 1,
+              "name": "Church Sullivan"
+            }
+          ]
+        }
+      ],
+      "greeting": "Hello, Suzette Clements! You have 7 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5b335e6bb2001d2d6170898a",
+      "index": 5,
+      "guid": "ee340ebd-b9b9-427d-9ddf-900845a91072",
+      "isActive": false,
+      "balance": "$2,476.80",
+      "name": "Fern Kent",
+      "gender": "female",
+      "tags": [
+        "nulla",
+        "aute",
+        "occaecat",
+        "cupidatat",
+        "voluptate",
+        "laboris",
+        "minim"
+      ],
+      "friends": [{
+          "id": 0,
+          "name": "Janice Austin",
+          "connections": [{
+              "id": 0,
+              "name": "Gates Church"
+            },
+            {
+              "id": 1,
+              "name": "Chris Hopkins"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Marian Evans",
+          "connections": [{
+              "id": 0,
+              "name": "Celeste Bridges"
+            },
+            {
+              "id": 1,
+              "name": "Daugherty Shaffer"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Juarez Hardy",
+          "connections": [{
+              "id": 0,
+              "name": "Reeves Dickerson"
+            },
+            {
+              "id": 1,
+              "name": "Bowers Adams"
+            }
+          ]
+        }
+      ],
+      "greeting": "Hello, Fern Kent! You have 7 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5b335e6b4de0de38fb4d4842",
+      "index": 6,
+      "guid": "655ed15e-9049-417f-a524-04bb7971223c",
+      "isActive": true,
+      "balance": "$2,052.41",
+      "name": "Chasity Holden",
+      "gender": "female",
+      "tags": [
+        "irure",
+        "amet",
+        "ullamco",
+        "et",
+        "nostrud",
+        "tempor",
+        "occaecat"
+      ],
+      "friends": [{
+          "id": 0,
+          "name": "Corina Santos",
+          "connections": [{
+              "id": 0,
+              "name": "Wells Head"
+            },
+            {
+              "id": 1,
+              "name": "Waters Whitley"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Duncan Riley",
+          "connections": [{
+              "id": 0,
+              "name": "Herman Wilkins"
+            },
+            {
+              "id": 1,
+              "name": "Jewell Hines"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chaney Castro",
+          "connections": [{
+              "id": 0,
+              "name": "Debbie Franklin"
+            },
+            {
+              "id": 1,
+              "name": "Webster Stanton"
+            }
+          ]
+        }
+      ],
+      "greeting": "Hello, Chasity Holden! You have 6 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]
+}
